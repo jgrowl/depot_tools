@@ -11,8 +11,7 @@ Instructions
   - `git submodule update`
   - Add depot_tools to the list of enabled plugins in your `.zshrc` file
 
-
-Further information about the actual depot_tools can be found here on the official depot_tools site:
+Further information about the actual depot_tools can be found here on the [official depot_tools site].
 
 
 [depot_tools]: http://www.chromium.org/developers/how-tos/install-depot-tools
