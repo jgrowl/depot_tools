@@ -5,10 +5,7 @@ This is a very simple oh-my-zsh plugin for installing the chromium depot_tools. 
 Instructions
 ---------------
 
-  - Clone this project in your oh-my-zsh custom plugins directory
-  - `cd depot_tools`
-  - `git submodule init`
-  - `git submodule update`
+  - Clone this project in your oh-my-zsh plugins directory
   - Add depot_tools to the list of enabled plugins in your `.zshrc` file
 
 Further information about the actual depot_tools can be found here on the official [depot_tools] site.
