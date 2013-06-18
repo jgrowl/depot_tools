@@ -10,10 +10,13 @@ Instructions
 
 Notes
 ---------------
-I decided to go with git-subtree instead of git-submodule here. If this becomes out of date and you want to update you may need to manually install git-subtree because it is not currently installed by default.
+If depot_tools becomes out of date, update depot_tools by running the following:
 
-Further information about the actual depot_tools can be found here on the official [depot_tools] site.
+git pull -s subtree depot_tools master
+
+Further information about the actual depot_tools can be found here on the official [depot_tools] site. Here is the git remote [depot_tools_git]
 
 
 [depot_tools]: http://www.chromium.org/developers/how-tos/install-depot-tools
+[depot_tools_git]: https://chromium.googlesource.com/chromium/tools/depot_tools.git
 
